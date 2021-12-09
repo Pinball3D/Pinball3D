@@ -1,4 +1,6 @@
 ### Hi there 👋
+### I'm 13 and I love to code!
+### ⚡ Fun fact: I started coding when I was only 11 years old
 
 <!--
 **Pinball3D/Pinball3D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
