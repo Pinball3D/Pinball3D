@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm 13 and I love to code!
+### I'm Andrew and I love to code!
 ### 📍Fun fact: I started coding when I was only 11 years old
 ### [Check out this website I made.](https://codepen.io/WillowCraft29/full/BadGJzB)
 
